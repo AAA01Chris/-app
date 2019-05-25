@@ -241,7 +241,7 @@ header > a{
 }
 .comment{
     height: auto;
-    padding: 0 0.22rem;
+    padding: 0.1rem 0.22rem;
 }
 .comment .commentItem{
     height: 1.97rem;
@@ -257,8 +257,9 @@ header > a{
 }
 .comment .commentInfo{
     flex-grow: 1;
-    background-color: #EF8996;
+    /*background-color: #EF8996;*/
     padding-top: 0.3rem;
+    margin-left: 0.2rem;
 }
 .infoTop{
     font-size: 0.2rem;
